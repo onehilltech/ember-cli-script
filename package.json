@@ -1,13 +1,14 @@
 {
   "name": "ember-cli-script",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "An EmberJS add-on for dynamically loading scripts",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "script"
   ],
-  "repository": "",
-  "license": "MIT",
-  "author": "",
+  "repository": "onehilltech/ember-cli-script",
+  "license": "Apache-2.0",
+  "author": "One Hill Technologies",
   "directories": {
     "doc": "doc",
     "test": "tests"
